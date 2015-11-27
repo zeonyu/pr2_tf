@@ -1,0 +1,22 @@
+<package>
+  <description brief="pr2_tf">
+
+     pr2_tf
+
+  </description>
+  <author>vv</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/pr2_tf</url>
+  <depend package="tf"/>
+  <depend package="roscpp"/>
+  <depend package="rospy"/>
+  <depend package="geometry_msgs"/>
+  <depend package="actionlib"/>
+  <depend package="joint_trajectory_action"/>
+  <depend package="kinematics_msgs"/>
+  <depend package="pr2_controllers_msgs"/>
+
+</package>
+
+
